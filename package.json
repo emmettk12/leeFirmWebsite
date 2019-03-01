@@ -1,0 +1,23 @@
+{
+  "name": "leefirmwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --files \"*.html, css/*.css\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmettk12/leeFirmWebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmettk12/leeFirmWebsite/issues"
+  },
+  "homepage": "https://github.com/emmettk12/leeFirmWebsite#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
